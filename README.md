@@ -44,7 +44,7 @@
         <b><u>Deploy in VPS:</u></b>
         <ul>
             <li><strong>Open a Linux Terminal and Run the below commands ( Stage: 1 )</strong></li>
-            <li><code>git clone https://github.com/Theonepremium/voicebot</code></li>
+            <li><code>git clone https://github.com/m4mallu/voicebot</code></li>
             <li><code>cd voicebot</code></li>
             <li>Create a <code>config.py</code> with the Mandatory variables (Refer sample_config.py) and save it in the bot directory.</li>
             <li><strong>Run the below commands in the same terminal ( Stage: 2 )</strong></li>
@@ -56,7 +56,7 @@
         <b><u>Deploy in Heroku</u></b>
         <ul>
             <li><strong>Click the below button to deploy the bot in Heroku</strong></li>
-            <a href="https://heroku.com/deploy?template=https://github.com/Theonepremium/voicebot">
+            <a href="https://heroku.com/deploy?template=https://github.com/m4mallu/voicebot">
             <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
         </a>
         </ul>
@@ -65,7 +65,7 @@
   <summary><b>Developer</b></summary>
     <p align="left">
         <img alt="GPL3" src ="https://c.tenor.com/10Zdx_RXqgcAAAAC/programming-crazy.gif" width="260px" style="max-width:100%;"/><br>
-            <a href="https://t.me/Theonearmy"><img src="https://img.shields.io/badge/Renjith-Mangal-orange" height="24">
+            <a href="https://t.me/space4renjith"><img src="https://img.shields.io/badge/Renjith-Mangal-orange" height="24">
         </a>&nbsp;
             <a href="https://t.me/rmprojects"><img src="https://img.shields.io/badge/Updates-Channel-orange" height="24">
         </a>
@@ -76,7 +76,7 @@
     <p align="left"><br>
     <b>Buy me a cup of coffee for the works !</b><br>
     <img src="https://telegra.ph/file/b926b7e8ea84826d81d8a.png" width="260px" style="max-width:100%;"/><br><br>
-      <a href="https://www.paypal.me/Theonearmy" target="_blank">
+      <a href="https://www.paypal.me/space4renjith" target="_blank">
         <img src="https://img.shields.io/badge/Donate-Me-blueviolet?style=for-the-badge&logo=paypal">
     </a>
 </p>
