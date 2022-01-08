@@ -55,7 +55,7 @@
         <b><u>Deploy in Heroku</u></b>
         <ul>
             <li><strong>Click the below button to deploy the bot in Heroku</strong></li>
-            <a href="https://heroku.com/deploy?template=https://github.com/m4mallu/voicebot">
+            <a href="https://heroku.com/deploy?template=https://github.com/Theonepremium/theonevoicebot">
             <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
         </a>
         </ul>
